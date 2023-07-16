@@ -95,7 +95,7 @@ h2 {
 }
 
 body {
-  background-color: #111;
+  background-color: ##d44450;
 }
 .random-btn {
   text-align: center;
@@ -125,10 +125,10 @@ body {
 }
 
 .classic {
-	background: #111;
+	background: #d44450;
 	color: white;
 	margin: 0;
-	--bg-c: #111;
+	--bg-c: #d44450;
 	overflow: hidden;
 }
 .header {
